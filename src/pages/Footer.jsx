@@ -10,9 +10,9 @@ function Footer() {
     <div className='container footer'>
       <h1>Induwa Arts</h1>
       <div className="footer-social-links">
-        <a href="#" target='_blank'><IoLogoFacebook/></a>
-        <a href="#" target='_blank'><IoLogoInstagram/></a>
-        <a href="#" target='_blank'><IoLogoWhatsapp/></a>
+      <a href="mailto:induwara119@icloud.com" target='_blank'><IoLogoFacebook/></a>
+        <a href="https://www.instagram.com/induwa_arts/" target='_blank'><IoLogoInstagram/></a>
+        <a href="https://wa.me/+94711227341" target='_blank'><IoLogoWhatsapp/></a>
       </div>
     </div>
   )

@@ -31,19 +31,19 @@ function Home() {
 
       <div className="home-section home-bottom-left">
         <div className="social-links">
-          <a href="mailto:induwara1234@gmail.com" target='_blank'>
+          <a href="mailto:induwara119@icloud.com" target='_blank'>
             <IoMdArrowDropright />
-            induwara1234@gmail.com
+            induwara119@icloud.com
           </a>
-          <a href="tel:+94000000000" target='_blank'>
+          <a href="tel:+94711227341" target='_blank'>
             <IoMdArrowDropright />
-            +94-00-000-0000
+            +94 71 122 7341
           </a>
-          <a href="#" target='_blank'>
+          <a href="https://web.facebook.com/induwara.rathnasiri/" target='_blank'>
             <IoMdArrowDropright />
             Facebook 
           </a>
-          <a href="#" target='_blank'>
+          <a href="https://www.instagram.com/induwa_arts/" target='_blank'>
             <IoMdArrowDropright />
             Instagram
           </a>

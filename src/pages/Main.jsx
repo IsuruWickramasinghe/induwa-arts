@@ -17,7 +17,7 @@ function Main() {
             print, and publishing industries for previewing 
             layouts and visual mockups.
           </p>
-          <a href="#">check out original</a>
+          <a href="https://www.instagram.com/induwa_arts/" target='_blank'>check out original</a>
         </div>
       </div>
     </div>
