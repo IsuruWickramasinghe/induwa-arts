@@ -69,6 +69,9 @@
   font-size: var(--fs-xl);
   font-weight: var(--font-semi-bold);
 }
+.logo a{
+  text-decoration: none !important;
+}
 .nav-link{
   width: 85px;
   overflow: hidden;

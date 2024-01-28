@@ -31,10 +31,10 @@ function Header() {
     <header className='header'>
       <div className="header-container">
         <div className="header-name">
-          Induwara Rathnasiri
+          <a href="#home">Induwara Rathnasiri</a>
         </div>
         <div className="logo">
-          Induwa Arts
+          <a href="#home">Induwa Arts</a>
         </div>
         <div className="nav-wrapper">
           <nav className="nav">
