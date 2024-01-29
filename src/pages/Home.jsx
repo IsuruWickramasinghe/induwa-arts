@@ -39,7 +39,7 @@ function Home() {
             <IoMdArrowDropright />
             +94 71 122 7341
           </a>
-          <a href="https://web.facebook.com/induwara.rathnasiri/" target='_blank'>
+          <a href="https://www.facebook.com/induwara.rathnasiri.9?mibextid=LQQJ4d" target='_blank'>
             <IoMdArrowDropright />
             Facebook 
           </a>

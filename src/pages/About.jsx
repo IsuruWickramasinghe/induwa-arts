@@ -1,7 +1,7 @@
 import React from 'react'
 import '../styles/about.css'
 
-import profile from '../assets/home-img-3.jpg'
+import profile from '../assets/profile.jpg'
 
 function About() {
   return (
